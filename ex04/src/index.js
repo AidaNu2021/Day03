@@ -1,8 +1,9 @@
 function main() {
 
-var x = 10;
-var y = 10;
-x = y;
+var x;
+var y;
+x = 10;
+y = x;
 
 return [x, y];
 
