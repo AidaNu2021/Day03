@@ -1,8 +1,9 @@
 function main() {
 
-var x =8;
+    var x;
+    x = 8;
 
-return x;
+ return x;
 
 }
 
